@@ -31,6 +31,7 @@
 ## Youtube
 * https://www.youtube.com/channel/UCR4iuvbk9DCuieR1ADIi0-Q
 ## Образование
+* Ставший классикой курс https://courseware.epfl.ch/courses/course-v1:EPFL+progfun1+2018_T1/about (раньше жил на курсере)
 * Проект fp speedrun. Веб занятия со студентами, желающими освоить функциональной программирование и средства для него в scala. https://github.com/scala-russian/fpspeedrun/wiki
 * Основы языка на русском от одного из Олегов https://stepik.org/course/16243
 * Подборки "Как вкатиться в скалу?" - https://gist.github.com/d1egoaz/2180cbbf7d373a0c5575f9a62466e5e1, https://stackoverflow.com/tags/scala/info
