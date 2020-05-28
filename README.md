@@ -6,11 +6,10 @@
 * Russian chat: https://t.me/scala_ru (правила - https://gist.github.com/fomkin/5ff77f44ddbdc54ef149b16ee8515b25)
 * English chat: https://t.me/scala_en
 * Jobs chat [En]: https://t.me/scala_jobs_en
-* Jobs chat [Ru]: https://t.me/scala_jobs
+* Flood and Jobs chat [Ru]: https://t.me/scala_jobs
 * Jobs channel (without flood): https://t.me/scala_jobs_feed
 * Канал с полезняшками: https://t.me/scala_channel_ru
 * Канал Дениса Михайлова aka @notxcain: https://t.me/notxcain_tech_feed
-* ПОНВ (отщепенцы, флудильня, место где не страшно быть глупым): https://t.me/scala_ponv
 * Газетка участников ПОНВа. https://t.me/daily_ponv
 * Чат по теоркату: https://t.me/ru_catheory
 * Хацкеллевый чат (если вы чувствуете себя как Фоммил или Моррис): https://t.me/haskellru
