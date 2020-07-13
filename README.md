@@ -8,6 +8,8 @@
 * Jobs chat [En]: https://t.me/scala_jobs_en
 * Flood and Jobs chat [Ru]: https://t.me/scala_jobs
 * Jobs channel (without flood): https://t.me/scala_jobs_feed
+* Чат для новичков, где любые вопросы по Scala - нестыдные: https://t.me/scala_learn
+* Отдельный чат про ToFu: https://t.me/tofu_ru
 * Канал с полезняшками: https://t.me/scala_channel_ru
 * Канал Дениса Михайлова aka @notxcain: https://t.me/notxcain_tech_feed
 * Газетка участников ПОНВа. https://t.me/daily_ponv
@@ -47,7 +49,7 @@
 * https://drive.google.com/drive/folders/1ZyYWvbs6TKa5U7dKsGlS6ru3t7QGp3gL -  его же шаурма-cat
 
 ## FAQ
-* Что за FT все упоминают? Final Tagless - подход для создания EDSL, альтернатива Free и просто модно в 2018. Почитать стоит http://okmij.org/ftp/tagless-final/course/lecture.pdf и славянофильское https://habr.com/post/325874/
+* Что за TF все упоминают? Tagless Final - подход для создания EDSL, альтернатива Free и просто модно в 2018. Почитать стоит http://okmij.org/ftp/tagless-final/course/lecture.pdf и славянофильское https://habr.com/post/325874/
 * А как сделать вот такую хитрую вещь? - возможно ответ есть в https://github.com/Odomontois/manatki
 * Нужно ли изучать хацкелль, чтоб писать на скалке с котами и прочими крутыми штуками? Нет.
 * Нужно ли изучать теорию категорию и прочий функан (с), чтобы писать на скалке с котами и прочими крутыми штуками? Нет. Хотя может дать некоторую интуицию и разочарование в происходящем, предварительно пожрав время. (Спойлер. Для хацкелля ответ такой же.)
