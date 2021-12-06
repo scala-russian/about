@@ -10,6 +10,7 @@
 * Jobs channel (without flood): https://t.me/scala_jobs_feed
 * Чат для новичков, где любые вопросы по Scala - нестыдные: https://t.me/scala_learn
 * Отдельный чат про ToFu: https://t.me/tofu_ru
+* Чат по Akka: https://t.me/akka_ru
 * Канал с полезняшками: https://t.me/scala_channel_ru
 * Канал Дениса Михайлова aka @notxcain: https://t.me/notxcain_tech_feed
 * Газетка участников ПОНВа. https://t.me/daily_ponv
